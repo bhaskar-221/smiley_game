@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424456448964",
+    "project_id": "bhaskarquiz-30647",
+    "storage_bucket": "bhaskarquiz-30647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424456448964:android:4c20bb97b3f2f0fe6c9291",
+        "android_client_info": {
+          "package_name": "com.example.cis_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424456448964-urjt4s87a9sp4i6722lvs4ir0v39r0go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtdOPjj3i2BoLyfG48C7qqu-0ufylpX-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424456448964-urjt4s87a9sp4i6722lvs4ir0v39r0go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
